@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, Word!");
+    println!("Hello, rust!");
 }
